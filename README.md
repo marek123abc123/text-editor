@@ -13,7 +13,8 @@ python main.py
 ## 
 
 
-![Text Editor 13 08 2023 19_13_55](https://github.com/marek123abc123/text-editor/assets/140446277/0cb0d802-37a4-4ef7-a5d0-abb6b93e8257)
+![localhost_8000_index html 14 08 2023 00_53_19](https://github.com/marek123abc123/text-editor/assets/140446277/d987da85-173f-493f-aa0a-77d20ab99e9c)
+
 
 ## 
 
