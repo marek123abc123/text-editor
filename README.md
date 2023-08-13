@@ -18,8 +18,3 @@ python main.py
 
 ## 
 
-Speichern = Save
-
-Öffnen = Open
-
-## 
